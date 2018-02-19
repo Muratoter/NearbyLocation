@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NearbyLocation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCBwzFujZVwYaQCTuTGIZYbZk6jL_Z_5qY</string>
+    <string name="google_web_api">AIzaSyD0IEyh15Y6bCufQh48pJfnL8a1XVJR7fA</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

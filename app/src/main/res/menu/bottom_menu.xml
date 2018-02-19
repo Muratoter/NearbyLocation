@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_market"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping"
+        android:title="Market"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/menu_hospital"
+        android:enabled="true"
+        android:icon="@drawable/ic_hospital"
+        android:title="Hastane"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/menu_school"
+        android:enabled="true"
+        android:icon="@drawable/ic_school"
+        android:title="Okul"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/menu_restaurant"
+        android:enabled="true"
+        android:icon="@drawable/ic_restaurant"
+        android:title="Restoran"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/menu_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_map_settings"
+        android:title="Ayarlar"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>
