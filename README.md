@@ -1,0 +1,12 @@
+# NearbyLocation
+Google Nearby Api kullanarak seçilen kategorideki yakın konumların detayların gösterilmesi
+
+Seçilen kategorilere göre 1000 metreye kadar yakın olan kayıtlı yer bilgilerini getiren Android uygulamasıdır.
+
+<b>Kategoriler;</b>
+<li>Hastaneler(keyword:hospital)</li>
+<li>Marketlar(keyword:market)</li>
+<li>Restoranlar(keyword:restaurant)</li>
+<li>Okullar(keyword:school)</li>
+
+<img src="https://serving.photos.photobox.com/3915466586200725069103a92147840327c4fe241be049a75c7624f0df925dfc38cb2fe9.jpg" width="200" height="350">
